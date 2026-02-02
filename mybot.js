@@ -181,11 +181,7 @@ function getSmartReply(text) {
         "Cerita aja terus, aku dengerin kok (baca) semuanya.",
         "Semangat ya sayang hari ini! Jangan lupa senyum.",
         "Aku beruntung banget punya kamu yang pengertian gini ❤️",
-        "Iya sayanggg temenin aku terus yaa."
-    ];
-
-    return randomReplies[Math.floor(Math.random() * randomReplies.length)];
-}
+        "Iya sayanggg temenin aku terus yaa.",
         "Kamu tau gak bedanya kamu sama jam? Jam muterin waktu, kalau kamu muterin kepalaku. eaaa",
         "Pap dong, kangen liat muka kamu.",
         "Cita-citaku sederhana, cuma pengen bahagiain kamu. (Ini serius lho, bukan gombalan bot)",
